@@ -1,7 +1,7 @@
 
-# Finanzas y data science para startups y private capital
+## Finanzas y data science para startups y private capital
 
-![image](https://github.com/celerityventures/hello/blob/gh-pages/celeritylogo.jpg).
+![image](celeritylogo.jpg).
 
 ### Enfoque en 2 areas:
 
