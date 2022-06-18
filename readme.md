@@ -3,7 +3,7 @@
 
 ![image](celeritylogo.jpg).
 
-### Enfoque en 2 areas:
+### Soluciones en 2 areas:
 
 1. Finanzas e inversiones:
 - access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
@@ -26,4 +26,3 @@
 - Reinforcement learning (multi-stage decision making)
 - Interactive Dashbaords 
 - Board deck designs
-
