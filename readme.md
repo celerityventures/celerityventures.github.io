@@ -1,5 +1,5 @@
 # CELERITY 
-***Finanzas y data science para startups y private equity.***
+***Finanzas y data science para startups y private assets***
 
 ![image](https://github.com/celerityventures/hello/blob/gh-pages/celeritylogo.jpg).
 
