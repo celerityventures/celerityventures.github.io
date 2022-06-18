@@ -4,6 +4,7 @@ Finanzas y data science para startups y private equity.
 ### Nuestro enfoque es 2 areas:
 ```markdown
 1. Finanzas e inversiones:
+access to capital: bridge rounds, SAFE, F&F, Seed, Series A-D rounds
 absolute valuation - recent transactions, DCF+TV)
 relative valuation - comparables
 cap table design and development
@@ -13,7 +14,6 @@ stock issuance, trading and re-purchase agreement
 ESOP
 liquidity events - M&A, IPO
 funding/VC readiness 
-access to capital through different vehicles: bridge rounds, SAFE, F&F, Seed, Series A-D rounds
 Board of directors configuration and design
 ```
 
