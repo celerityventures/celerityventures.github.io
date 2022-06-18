@@ -21,7 +21,7 @@
 - Board of directors configuration and design
 
 2. Data Science:
-- Scikit, Pandas
+- Python, Scikit, Pandas
 - Unsupervised learning (find patterns)
 - Supervised learning (predict numerical value or classification)
 - Semi-supervised learning (only part of data has values for, or classification of, target)
