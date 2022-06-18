@@ -1,7 +1,7 @@
 # Aceleradora 
 Finanzas y data science para startups y private equity. 
 
-![alt text for screen readers](https://github.com/celerityventures/hello/blob/gh-pages/celeritylogo.jpg "Text to show on mouseover").
+![logo celerity](https://github.com/celerityventures/hello/blob/gh-pages/celeritylogo.jpg "Celerity").
 
 ### Enfoque en 2 areas:
 ```markdown
