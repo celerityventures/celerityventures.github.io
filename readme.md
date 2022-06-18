@@ -6,8 +6,8 @@
 ### Enfoque en 2 areas:
 
 1. Finanzas e inversiones:
-- access to capital: bridge rounds, SAFE, F&F, Seed, Series A-D rounds
-- absolute valuation - recent transactions, DCF+TV)
+- access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
+- absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
 - relative valuation - comparables
 - cap table design and development
 - capital structuring
