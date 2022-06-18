@@ -1,3 +1,4 @@
+# CELERITY #
 ***Finanzas y data science para startups y private capital***
 
 ![image](celeritylogo.jpg).
