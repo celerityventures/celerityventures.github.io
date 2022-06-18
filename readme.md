@@ -10,9 +10,11 @@
 - absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
 - relative valuation - comparables
 - cap table design and development
+- term sheet: economics and control, investors due diligence
+- lead investor advisory
 - capital structuring
 - dividend policy
-- stock issuance, trading and re-purchase agreement
+- stock issuance, trading and re-purchase
 - ESOP, internal equity design
 - liquidity events - M&A, IPO
 - funding/VC readiness 
