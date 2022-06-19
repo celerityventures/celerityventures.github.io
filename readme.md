@@ -1,14 +1,14 @@
 # CELERITY #
 ***Finanzas y data science para startups y private capital***
 
-[Comparti tu pitch o idea](mailto:b.evans@skyhighfund.com)
+[Contacto](mailto:b.evans@skyhighfund.com)
 
-[Contactame por Twitter]([@brianevans_](https://twitter.com/brianevans_))
+[Twitter: @brianevans_](https://twitter.com/brianevans_)
 
 
 ![image](celeritylogo.jpg).
 
-### Soluciones en 2 areas:
+## Soluciones en 2 areas:
 
 1. Finanzas e inversiones:
 - access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
@@ -33,4 +33,4 @@
 - Reinforcement learning (multi-stage decision making)
 - Interactive Dashbaords 
 - Board deck designs
-### Mas de USD 500K de capital invertido en buenas ideas 
+## Mas de USD 500K de capital invertido en buenas ideas 
