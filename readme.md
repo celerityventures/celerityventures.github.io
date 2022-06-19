@@ -1,5 +1,10 @@
-# CELERITY 
+# CELERITY #
 ***Finanzas y data science para startups y private capital***
+
+[Comparti tu pitch o idea](b.evans@skyhighfund.com)
+
+[Contactame por Twitter](@brianevans_)
+
 
 ![image](celeritylogo.jpg).
 
@@ -28,3 +33,4 @@
 - Reinforcement learning (multi-stage decision making)
 - Interactive Dashbaords 
 - Board deck designs
+### Mas de USD 500K de capital invertido en buenas ideas 
