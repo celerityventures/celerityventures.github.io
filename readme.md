@@ -1,7 +1,7 @@
 # CELERITY
 ### ***Finanzas y data science para startups y private capital***
 
-### [Contacto y para compartir idea o pitch](mailto:b.evans@skyhighfund.com) 
+### [Contacto. Comparti tu idea o pitch](mailto:b.evans@skyhighfund.com) 
 
 ### [Twitter: @brianevans_](https://twitter.com/brianevans_)
 
