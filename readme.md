@@ -5,7 +5,7 @@
 
 ### [Twitter: @brianevans_](https://twitter.com/brianevans_)
 
-### [Founder CV](https://github.com/celerityventures/celerityventures.github.io/blob/785313db8efef2f5e8f81d016c1dee7df3273724/CV%20Github.pdf)
+### [About founder](https://github.com/celerityventures/celerityventures.github.io/blob/785313db8efef2f5e8f81d016c1dee7df3273724/CV%20Github.pdf)
 
 ![image](celeritylogo.jpg).
 
