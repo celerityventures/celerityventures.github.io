@@ -6,7 +6,7 @@
 
 #### [Contacto, enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp;  [Twitter](https://twitter.com/brianevans_)
 
-<img src="celeritylogo.jpg" alt="celerity logo" align="right" width="300" height="200"/>
+<img src="celeritylogo2.jpg" alt="celerity logo" align="right" width="300" height="200"/>
 
 ## Soluciones en 2 areas:
 
