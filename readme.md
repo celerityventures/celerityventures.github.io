@@ -1,6 +1,7 @@
+# CELERITY
+
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# CELERITY
 ### ***Finanzas y data science para startups y private capital***
 
 ### [Contacto, comparti tu idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp;  [Twitter](https://twitter.com/brianevans_)
