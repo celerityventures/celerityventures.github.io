@@ -15,7 +15,8 @@
 - absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
 - relative valuation - comparables
 - cap table design and development
-- term sheet: economics and control, investors due diligence
+- term sheet: economics and control
+- due diligence
 - lead investor advisory
 - capital structuring
 - dividend policy
