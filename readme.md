@@ -31,5 +31,3 @@
 - Reinforcement learning (multi-stage decision making)
 - Interactive Dashbaords 
 - Board deck designs
-
-## Mas de USD 500K de capital invertido en buenas ideas 
