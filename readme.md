@@ -1,8 +1,4 @@
-<html>
-	<head>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-	</head>
-</html>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # CELERITY
 ### ***Finanzas y data science para startups y private capital***
