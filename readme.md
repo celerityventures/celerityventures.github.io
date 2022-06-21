@@ -32,3 +32,4 @@
 - Board deck designs
 
 ## Mas de USD 500K de capital invertido en buenas ideas 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
