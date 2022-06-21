@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: CELERITY
+description: Aceleradora, finanzas y data science para startups y private capital
+show_downloads: FALSE
+google_analytics: TRUE
 theme: jekyll-theme-cayman
