@@ -1,5 +1,3 @@
-# ACELERADORA  Finanzas y data science para startups y private capital
-
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <img src="celeritylogo2.jpg" alt="celerity logo" align="right" width="300" height="200"/>
 
