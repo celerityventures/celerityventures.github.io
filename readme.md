@@ -4,11 +4,11 @@
 
 ### Finanzas y data science para startups y private capital
 
-#### [Contacto, enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp;  [Twitter](https://twitter.com/brianevans_)
-
 <img src="celeritylogo2.jpg" alt="celerity logo" align="right" width="300" height="200"/>
 
-<p align="center">
+#### [Contacto, enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp;  [Twitter](https://twitter.com/brianevans_)
+
+<p align="left">
   
 ## Soluciones en 2 areas:
 
