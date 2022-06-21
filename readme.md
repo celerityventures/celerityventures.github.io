@@ -5,7 +5,7 @@
 
 ### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_)***
 
-## Soluciones en 2 areas:
+## Aceleradora de Startups | Innovación Empresarial
 
 1. Finanzas:
 - access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
