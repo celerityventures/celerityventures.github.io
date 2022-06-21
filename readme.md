@@ -7,7 +7,7 @@
 
 <p align="center">
  
- **Aceleradora, finanzas y data science para startups y private capital**
+**Aceleradora, finanzas y data science para startups y private capital**
  
 </p>
   
