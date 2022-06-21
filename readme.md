@@ -9,7 +9,7 @@
   
 ## Soluciones en 2 areas:
 
-1. Finanzas e inversiones:
+1. Finanzas:
 - access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
 - absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
 - relative valuation - comparables
