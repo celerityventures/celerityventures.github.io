@@ -1,4 +1,4 @@
-# CELERITY 
+<h1 align="center"> CELERITY </h1>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <p align="center">
