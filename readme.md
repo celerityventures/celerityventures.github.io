@@ -1,10 +1,14 @@
 # CELERITY 
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/>
+<img src="celeritylogo2.jpg" align="center" alt="celerity logo" width="300" height="200"/> 
 
-**Finanzas y data science para startups y private capital**
+<p align="center">
 
+  **Aceleradora, finanzas y data science para startups y private capital**
+  
+</p>
+  
 #### [Contacto, enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp;  [Twitter](https://twitter.com/brianevans_)
 
 ## Soluciones en 2 areas:
