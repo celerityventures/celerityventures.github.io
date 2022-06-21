@@ -8,6 +8,8 @@
 
 <img src="celeritylogo2.jpg" alt="celerity logo" align="right" width="300" height="200"/>
 
+<p align="center">
+  
 ## Soluciones en 2 areas:
 
 1. Finanzas e inversiones:
@@ -36,4 +38,4 @@
 - Board deck designs
 
 ## Mas de USD 500K de capital invertido en buenas ideas 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</p>
