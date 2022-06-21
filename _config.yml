@@ -1,5 +1,5 @@
 title: CELERITY
 description: Aceleradora, finanzas y data science para startups y private capital
 show_downloads: FALSE
-google_analytics: TRUE
+google_analytics:
 theme: jekyll-theme-cayman
