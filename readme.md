@@ -17,7 +17,7 @@
 - lead investor advisory
 - capital structuring
 - dividend policy
-- stock issuance, trading and re-purchase
+- equity issuance, trading and re-purchase
 - ESOP, internal equity design, vesting
 - liquidity events - M&A, IPO
 - funding/VC readiness 
@@ -30,4 +30,4 @@
 - Semi-supervised learning (only part of data has values for, or classification of, target)
 - Reinforcement learning (multi-stage decision making)
 - Interactive Dashbaords 
-- Board deck designs
+- Board deck design
