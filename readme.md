@@ -6,8 +6,8 @@
 ### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_)***
 
 ## Aceleradora de Startups | Innovación Empresarial
-
-1. Finanzas:
+***
+**Finanzas:**
 - access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
 - absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
 - relative valuation - comparables
@@ -18,12 +18,12 @@
 - capital structuring
 - dividend policy
 - stock issuance, trading and re-purchase
-- ESOP, internal equity design
+- ESOP, internal equity design, vesting
 - liquidity events - M&A, IPO
 - funding/VC readiness 
-- Board of directors configuration and design
+- Board of Directors configuration and design
 
-2. Data Science:
+**Data Science:**
 - Python, Scikit, Pandas
 - Unsupervised learning (find patterns)
 - Supervised learning (predict numerical value or classification)
