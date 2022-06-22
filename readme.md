@@ -8,9 +8,9 @@
 ## Aceleradora de Startups | Innovación Empresarial
 ***
 **Finanzas:**
-- Raise capital: F&F, seed, series A-D round, SAFE, bridge round, convertibles.
-- Absolute valuation - recent transactions, DCF+TV/NPV, discount rates/WACC
-- Relative valuation - comparables
+- Raising capital: F&F, seed, series A-D round, SAFE, bridge round, convertibles
+- Absolute valuation - DCF+TV/NPV, discount rate/WACC
+- Relative valuation - comparables, recent transactions
 - Cap table design and development
 - Term sheet: economics and control
 - Due diligence
@@ -20,7 +20,7 @@
 - Equity issuance, trading and re-purchase
 - ESOP, internal equity design, vesting
 - Liquidity events - M&A, IPO
-- Funding/VC readiness 
+- Funding/VC/PE readiness 
 - Board of directors configuration and design
 
 **Data Science:**
