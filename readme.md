@@ -8,20 +8,20 @@
 ## Aceleradora de Startups | Innovación Empresarial
 ***
 **Finanzas:**
-- access to capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
-- absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
-- relative valuation - comparables
-- cap table design and development
-- term sheet: economics and control
-- due diligence
-- lead investor advisory
-- capital structuring
-- dividend policy
-- equity issuance, trading and re-purchase
+- Raise capital: bridge rounds, SAFE, conv. notes, F&F, Seed, Series A-D rounds
+- Absolute valuation - recent transactions, DCF+TV, NPV, discount rate/WACC
+- Relative valuation - comparables
+- Cap table design and development
+- Term sheet: economics and control
+- Due diligence
+- Lead investor advisory
+- Capital structuring
+- Dividend policy
+- Equity issuance, trading and re-purchase
 - ESOP, internal equity design, vesting
-- liquidity events - M&A, IPO
-- funding/VC readiness 
-- Board of Directors configuration and design
+- Liquidity events - M&A, IPO
+- Funding/VC readiness 
+- Board of directors configuration and design
 
 **Data Science:**
 - Python, Scikit, Pandas
@@ -29,5 +29,5 @@
 - Supervised learning (predict numerical value or classification)
 - Semi-supervised learning (only part of data has values for, or classification of, target)
 - Reinforcement learning (multi-stage decision making)
-- Interactive Dashbaords 
+- Interactive dashboards 
 - Board deck design
