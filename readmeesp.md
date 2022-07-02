@@ -3,7 +3,7 @@
 <img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
 
-### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_)***
+### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_) &nbsp;-&nbsp; [EN](readme.md)|[SP](readmeesp.md)***
 
 ## Aceleradora de Startups | Innovación Empresarial
 ***
