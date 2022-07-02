@@ -27,7 +27,7 @@
 - Python - Pandas, Seaborn, Scikit, Keras, TensorFlow
 - Unsupervised learning (find patterns)
 - Supervised learning (predict values and classification)
-- Semi-supervised learning (incomplete values or classes for target)
+- Semi-supervised learning (missing values/classes for target)
 - Reinforcement learning (multi-stage decision making)
 - Interactive dashboards 
 - Board deck design
