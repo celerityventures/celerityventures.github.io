@@ -3,7 +3,15 @@
 <img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
 
-### ***[Contact](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Send idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_) &nbsp;-&nbsp; [EN](readme.md)|[ES](readmeesp.md)***
+### ***[Contact](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Send idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [EN](readme.md)|[ES](readmeesp.md)***
+<div id="badges">
+  <a href="https://www.linkedin.com/company/celerityventures/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/brianevans_">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## Startup Accelerator | Business Innovation
 ***
@@ -27,7 +35,7 @@
 - Python - Pandas, Seaborn, Scikit, Keras, TensorFlow
 - Unsupervised learning (find patterns)
 - Supervised learning (predict values and classification)
-- Semi-supervised learning (missing values/classes for target)
+- Semi-supervised learning (missing values for target)
 - Reinforcement learning (multi-stage decision making)
 - Interactive dashboards 
 - Board deck design
