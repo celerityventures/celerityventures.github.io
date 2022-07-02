@@ -17,7 +17,7 @@
 ***
 **Finanzas:**
 - Levantamiento de capital - F&F, semillas, rondas serie A-D
-- Estructuración de capital - SEGURO, ronda puente, convertibles
+- Estructuración de capital - SAFE, ronda puente, convertibles
 - Valoración absoluta - DCF+TV/VAN, tasa de descuento/WACC
 - Valoración relativa - comparables, transacciones recientes
 - Diseño y desarrollo de cap table
@@ -38,4 +38,4 @@
 - Aprendizaje semisupervisado (valores o clases incompletos para objetivo)
 - Aprendizaje por refuerzo (toma de decisiones en varias etapas)
 - Tableros interactivos
-- Deck de juntas directivas
+- Deck de junta directiva
