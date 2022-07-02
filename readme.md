@@ -24,7 +24,7 @@
 - Board of directors configuration
 
 **Data Science:**
-- Python, Scikit, Pandas
+- Python - Pandas, Seaborn, Scikit, Keras, TensorFlow
 - Unsupervised learning (find patterns)
 - Supervised learning (predict numerical value or classification)
 - Semi-supervised learning (part of data has values or classes for target)
