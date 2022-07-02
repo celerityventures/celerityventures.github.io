@@ -3,11 +3,11 @@
 <img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
 
-### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_)***
+### ***[Contact](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Send idea o pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Twitter](https://twitter.com/brianevans_)***
 
-## Aceleradora de Startups | Innovación Empresarial
+## Startup Accelerator | Business Innovation
 ***
-**Finanzas:**
+**Finance:**
 - Raising capital - F&F, seed, series A-D rounds
 - Capital structuring - SAFE, bridge round, convertibles
 - Absolute valuation - DCF+TV/NPV, discount rate/WACC
