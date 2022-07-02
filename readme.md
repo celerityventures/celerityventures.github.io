@@ -26,8 +26,8 @@
 **Data Science:**
 - Python - Pandas, Seaborn, Scikit, Keras, TensorFlow
 - Unsupervised learning (find patterns)
-- Supervised learning (predict numerical value or classification)
-- Semi-supervised learning (part of data has values or classes for target)
+- Supervised learning (predict values and classification)
+- Semi-supervised learning (incomplete values or classes for target)
 - Reinforcement learning (multi-stage decision making)
 - Interactive dashboards 
 - Board deck design
