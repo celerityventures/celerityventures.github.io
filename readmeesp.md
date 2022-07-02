@@ -8,26 +8,26 @@
 ## Aceleradora de Startups | Innovación Empresarial
 ***
 **Finanzas:**
-- Raising capital - F&F, seed, series A-D rounds
-- Capital structuring - SAFE, bridge round, convertibles
-- Absolute valuation - DCF+TV/NPV, discount rate/WACC
-- Relative valuation - comparables, recent transactions
-- Cap table design and development
-- Term sheet - economics and control
-- Dividend policy, preferred/common equity
-- Equity issuance, placement and re-purchase
-- ESOP, equity compensation, vesting
-- Liquidity events - M&A, IPO
-- Due diligence
-- Lead investor advisory
-- Funding/VC/PE readiness 
-- Board of directors configuration
+- Levantamiento de capital - F&F, semillas, rondas serie A-D
+- Estructuración de capital - SEGURO, ronda puente, convertibles
+- Valoración absoluta - DCF+TV/VAN, tasa de descuento/WACC
+- Valoración relativa - comparables, transacciones recientes
+- Diseño y desarrollo de cap table
+- Hoja de términos - economía y control
+- Política de dividendos, acciones preferentes/comunes
+- Emisión, colocación y recompra de acciones
+- ESOP, compensación de capital, adquisición de derechos
+- Eventos de liquidez - M&A, IPO
+- Debida diligencia
+- Asesoramiento a inversores líderes
+- Preparación para financiación/VC/PE
+- Configuración de junta directiva
 
-**Data Science:**
-- Python - Pandas, Seaborn, Scikit, Keras, TensorFlow
-- Unsupervised learning (find patterns)
-- Supervised learning (predict numerical value or classification)
-- Semi-supervised learning (part of data has values or classes for target)
-- Reinforcement learning (multi-stage decision making)
-- Interactive dashboards 
-- Board deck design
+**Ciencia de los datos:**
+- Python: Pandas, Seaborn, Scikit, Keras, TensorFlow
+- Aprendizaje no supervisado (encontrar patrones)
+- Aprendizaje supervisado (predecir valor numérico o clasificación)
+- Aprendizaje semisupervisado (parte de los datos tiene valores o clases para el objetivo)
+- Aprendizaje por refuerzo (toma de decisiones en varias etapas)
+- Tableros interactivos
+- Deck de juntas directivas
