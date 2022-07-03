@@ -3,7 +3,7 @@
 <img src="celeritylogo3.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
 
-### ***[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [EN](readme.md)|[ES](readmeesp.md)***
+### **[Contacto](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Enviar pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [EN](readme.md)|[ES](readmeesp.md)**
 <div id="badges">
   <a href="https://www.linkedin.com/company/celerityventures/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
