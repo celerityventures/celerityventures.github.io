@@ -1,4 +1,16 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://celerityventures.github.io">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CELERITY">
+<meta property="og:description" content="Startup Accelerator">
+<meta property="og:image" content="">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="CELERITY">
+<meta name="twitter:description" content="Startup Accelerator">
+<meta name="twitter:image" content="">
 <p align="center">
 <img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
