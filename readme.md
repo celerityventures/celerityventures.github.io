@@ -1,21 +1,4 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<!-- Primary Meta Tags -->
-<meta name="title" content="CELERITY | Startup Accelerator">
-<meta name="description" content="Startup Accelerator">
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://celerityventures.github.io/">
-<meta property="og:title" content="CELERITY | Startup Accelerator">
-<meta property="og:description" content="Startup Accelerator">
-<meta property="og:image" content="">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://celerityventures.github.io/">
-<meta property="twitter:title" content="CELERITY | Startup Accelerator">
-<meta property="twitter:description" content="Startup Accelerator">
-<meta property="twitter:image" content="">
 <p align="center">
 <img src="celeritylogo3.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
