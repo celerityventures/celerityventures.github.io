@@ -12,7 +12,7 @@
 <meta name="twitter:description" content="Startup Accelerator">
 <meta name="twitter:image" content="">
 <p align="center">
-<img src="celeritylogo2.jpg" alt="celerity logo" width="300" height="200"/> 
+<img src="celeritylogo3.jpg" alt="celerity logo" width="300" height="200"/> 
 </p>
 
 ### ***[Contact](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [Send pitch](mailto:b.evans@skyhighfund.com) &nbsp;-&nbsp; [EN](readme.md)|[ES](readmeesp.md)***
