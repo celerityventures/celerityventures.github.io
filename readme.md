@@ -46,6 +46,6 @@
 <img src="GFANBAG_19_web.jpg" alt="celerity logo" width="300" height="200"/> 
 <img src="Logo_Grosomono.png" alt="celerity logo" width="300" height="200"/> 
 <img src="wecoverlogo.jpg" alt="celerity logo" width="300" height="200"/> 
-<img src="wyderlogo.JPG" alt="celerity logo" width="300" height="200"/> 
-<img src="zonialogo.JPG" alt="celerity logo" width="300" height="200"/> 
+<img src="wyderlogo.JPG" alt="celerity logo" width="200" height="200"/> 
+<img src="zonialogo.JPG" alt="celerity logo" width="100" height="300"/> 
 </p>
