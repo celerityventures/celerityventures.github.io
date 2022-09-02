@@ -39,3 +39,13 @@
 - Reinforcement learning (multi-stage decision making)
 - Interactive dashboards 
 - Board deck design
+
+## Clients
+***
+<p align="center">
+<img src="GFANBAG_19_web.jpg" alt="celerity logo" width="300" height="200"/> 
+<img src="Logo_Grosomono.png" alt="celerity logo" width="300" height="200"/> 
+<img src="wecoverlogo.jpg" alt="celerity logo" width="300" height="200"/> 
+<img src="wyderlogo.JPG" alt="celerity logo" width="300" height="200"/> 
+<img src="zonialogo.JPG" alt="celerity logo" width="300" height="200"/> 
+</p>
