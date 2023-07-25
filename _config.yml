@@ -2,4 +2,5 @@ title: CELERITY
 description: Startup Accelerator
 show_downloads: FALSE
 google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
+"""theme: jekyll-theme-cayman"""
